@@ -12,8 +12,6 @@ cachetools==4.1.1
 certifi==2020.6.20
 cffi==1.14.0
 chardet==3.0.4
-conda==4.8.2
-conda-package-handling==1.6.0
 cryptography==2.8
 cycler==0.10.0
 decorator==4.4.2
